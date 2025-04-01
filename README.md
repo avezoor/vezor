@@ -6,7 +6,7 @@
 
  ## Information
 
-![Version](https://img.shields.io/badge/version-1.0.0-black) ![Features](https://img.shields.io/badge/features-3-blue) ![Modules](https://img.shields.io/badge/modules-23-black) ![File](https://img.shields.io/badge/file-33-orange) 
+![Version](https://img.shields.io/badge/version-1.0.1-black) ![Features](https://img.shields.io/badge/features-3-blue) ![Modules](https://img.shields.io/badge/modules-23-black) ![File](https://img.shields.io/badge/file-33-orange) 
 
  ## Documentation
 
@@ -35,6 +35,7 @@ Additionally, it supports execution in environments such as:
 ## Features
 - Tool prints algorithm and writes algorithm code from class calls
 - Added some additional modules and files 
+- Fixing bugs
 ---
 ## Contribution
 Thanks to all contributors! ❤️
