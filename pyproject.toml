@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "vezor"
-version = "0.1.6"
+version = "0.1.1"
 description = "A collection of algorithm designs for easy application to assist mathematical problems."
 authors = [
     {name = "Izzar Suly Nashrudin", email = "Izzarsuly@proton.me"}
