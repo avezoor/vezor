@@ -6,7 +6,7 @@
 
  ## Information
 
-![Version](https://img.shields.io/badge/version-0.1.1-black) ![Features](https://img.shields.io/badge/features-3-blue) ![Modules](https://img.shields.io/badge/modules-23-black) ![File](https://img.shields.io/badge/file-33-orange) 
+![Version](https://img.shields.io/badge/version-0.1.6-black) ![Features](https://img.shields.io/badge/features-3-blue) ![Modules](https://img.shields.io/badge/modules-23-black) ![File](https://img.shields.io/badge/file-33-orange) 
 
  ## Documentation
 
