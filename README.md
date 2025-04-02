@@ -1,8 +1,8 @@
 # Vezor Package 
 
 <p align="center">
-  <img src="logo-white.png" alt="White Logo" width="200">
-  <img src="logo-black.png" alt="Black Logo" width="200">
+  <img src="logo-white.png" alt="White Logo" width="500">
+  <img src="logo-black.png" alt="Black Logo" width="500">
 </p>
 
 ---
