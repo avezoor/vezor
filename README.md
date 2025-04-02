@@ -1,4 +1,10 @@
 # Vezor Package 
+
+<p align="center">
+  <img src="logo-white.png" alt="White Logo" width="200">
+  <img src="logo-black.png" alt="Black Logo" width="200">
+</p>
+
 ---
 
 [![License](https://img.shields.io/badge/License-MIT-green.svg?logo=open-source-initiative)](https://github.com/avezoor/vezor/blob/main/LICENSE)
@@ -6,7 +12,7 @@
 
  ## Information
 
-![Version](https://img.shields.io/badge/version-1.0.1-black) ![Features](https://img.shields.io/badge/features-3-blue) ![Modules](https://img.shields.io/badge/modules-23-black) ![File](https://img.shields.io/badge/file-33-orange) 
+![Version](https://img.shields.io/badge/version-1.0.2-black) ![Features](https://img.shields.io/badge/features-4-blue) ![Modules](https://img.shields.io/badge/modules-26-black) ![File](https://img.shields.io/badge/file-36-orange) 
 
  ## Documentation
 

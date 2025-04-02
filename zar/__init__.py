@@ -7,7 +7,7 @@ from . import geometry
 from . import searching
 from . import sorting
 
-__all__ = ["algoPrint", "algoWrite", "help"]
+__all__ = ["algoPrint", "algoWrite", "help", "info"]
 __submodule__ = {
     "sorting": sorting,
     "searching": searching,
@@ -19,3 +19,4 @@ __submodule__ = {
 from .print import algoPrint
 from .write import algoWrite
 from .help import help
+from .info import info
